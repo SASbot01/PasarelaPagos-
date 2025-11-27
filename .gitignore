@@ -1,1 +1,21 @@
-/bin/
+# === ARCHIVOS Y CARPETAS DE ECLIPSE ===
+.classpath
+.project
+.settings/
+
+# === CÓDIGO COMPILADO ===
+bin/
+target/
+out/
+
+# === ARCHIVOS DEL SISTEMA OPERATIVO ===
+.DS_Store
+Thumbs.db
+
+# === LOGS Y TEMPORALES ===
+*.log
+*.tmp
+
+# === OTROS QUE NO QUIERES SUBIR ===
+doc/
+docs/
